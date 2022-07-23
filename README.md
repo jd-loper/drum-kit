@@ -1,1 +1,1 @@
-# drum-kit
+A playable drum kit made with JavaScript!
